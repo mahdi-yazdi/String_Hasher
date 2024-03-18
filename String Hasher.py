@@ -15,6 +15,6 @@ hash_value = calculate_hash(input_string)
 if hash_value is not None:
     print("Input String:", input_string)
     print("Hash Value (SHA-256):", hash_value)
-#Output:
+#Exampe Output:
 #Input String: Hello World!
 #Hash Value (SHA-256): 7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069
